@@ -1,2 +1,2 @@
 # html-portfolio
-just a basic htm website
+just a basic html website
